@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bottom Navigation</string>
+    <string name="item_1">Item 1</string>
+    <string name="item_2">Item 2</string>
+    <string name="item_3">Item 3</string>
+
+    <!-- info kos related -->
+    <string name="bottom_carikos">Cari Kos</string>
+    <string name="bottom_pemesanan">Pemesanan Saya</string>
+    <string name="bottom_profil">Profil</string>
+    <string name="title_activity_search_kos">SearchKosActivity</string>
+
+    <!-- spinner untuk halaman cari kos -->
+    <string-array name="array_carikos">
+        <item>Semua</item>
+        <item>Lokasi Terdekat</item>
+        <item>Fasilitas</item>
+        <item>Harga</item>
+    </string-array>
+    <string name="title_activity_detail_kos">DetailKosActivity</string>
+</resources>
